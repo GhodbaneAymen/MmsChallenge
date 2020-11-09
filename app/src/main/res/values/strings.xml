@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MmsChallenge</string>
+
+    <string name="contact">Jane Doe</string>
+    <string name="phone_number">14155551212</string>
+    <string name="make_a_call">Make a call</string>
+    <string name="enter_msg">Enter message here</string>
+    <string name="send_msg">Send a message</string>
+
+    <string name="choose_picture">Choose a picture from the gallery to sent </string>
+    <string name="send_pic">CHOOSE  PICTURE AND SENT </string>
+    <string name="granted_permission">Permission Granted</string>
+    <string name="failure_permission">Failure to obtain permission!</string>
+    <string name="button_disabled">Choosing a picture disabled</string>
+</resources>
